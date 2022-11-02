@@ -1,5 +1,5 @@
 import cv2
-
+import torch
 
 def gstreamer_pipeline(
     capture_width=1920,
